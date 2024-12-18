@@ -24,4 +24,4 @@ kill -9 <номер процесса>
 
 
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![show-directory](https://github.com/Zickerman/Polis/actions/workflows/say-hello.yml/badge.svg)](https://github.com/Zickerman/Polis/actions/workflows/say-hello.yml)
