@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v4
-      - run: make -f .github/workflows/Makefile say-hello
+      - run: make say-hello
