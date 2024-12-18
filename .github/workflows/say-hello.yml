@@ -1,7 +1,7 @@
-name: show-directory
+name: say-hello
 on: push
 jobs:
   build:
     runs-on: ubuntu-latest
     steps: 
-      - run: make say-hello
+      - run: make -f .github/workflows/Makefile say-hello
