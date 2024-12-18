@@ -20,3 +20,8 @@ ps -ef | grep php
 
 освободить порт удалив процесс
 kill -9 <номер процесса>
+
+
+
+
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
